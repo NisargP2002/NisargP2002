@@ -1,8 +1,8 @@
 ## Hi, I'm Nisarg 👋
 
-**M.Sc. Software Engineering @ Hochschule Heilbronn · Applied AI & Backend Developer**
+**M.Sc. Software Engineering @ Hochschule Heilbronn · Applied AI, LLM & Software Engineering**
 
-I build software at the intersection of backend engineering, machine learning, and LLM-powered interactive systems. My current focus is developing reliable LLM applications and growing into retrieval-augmented generation (RAG), with clear evaluation and production-minded engineering.
+I build software at the intersection of machine learning, software engineering, and LLM-powered interactive systems. My current focus is developing reliable LLM applications and growing into retrieval-augmented generation (RAG), with clear evaluation and production-minded engineering.
 
 📍 Heilbronn, Germany · 💬 German B2 · English C1
 
@@ -26,4 +26,4 @@ I build software at the intersection of backend engineering, machine learning, a
 
 ---
 
-Open to working-student and internship opportunities in Applied AI, backend development, and software engineering in Germany.
+Open to working-student and internship opportunities in Applied AI, LLM applications, and software engineering in Germany.
