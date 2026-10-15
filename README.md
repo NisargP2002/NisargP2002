@@ -8,7 +8,7 @@ I build software at the intersection of machine learning, software engineering, 
 
 ---
 
-### What I build
+### Projects I Contributed To
 
 - **[The Warden of the Ashwood](https://github.com/NisargP2002/ai-powered-npc-game)** — A Unity 6 prototype connecting NPC dialogue to an LLM-driven trust, emotion, and quest-state system, with structured responses and local fallback behavior.
 - **[Customer Churn Prediction](https://github.com/NisargP2002/churn-prediction)** — An end-to-end ML prototype using XGBoost, FastAPI, Streamlit, SHAP, and Docker, covering validation, training, evaluation, inference, and model explanations.
